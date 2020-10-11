@@ -15,7 +15,7 @@ time.sleep(5)
 
 #Definir Grupos e contatos a serem buscados.
 #Para buscar mais de um contato ou grupo passa nome entre virtula ex: ['Grupo de teste','Maria', 'Pedro']
-contatos = ['Grupo de teste']
+contatos = ['Grupo de teste', 'contato de teste']
 mensagem = 'Olá tudo bem? seja bem vindo ao grupo de teste'
 
 #Tempo de espera.
